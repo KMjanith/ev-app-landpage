@@ -1,0 +1,32 @@
+.nav{
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 120px;
+
+}
+
+.nav-logo{
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav-menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 90px;
+    list-style: none;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav-contact{
+    background-color: white;
+    padding: 10px 38px;
+    border-radius: 50px;
+    color: black;
+}
